@@ -1,0 +1,33 @@
+ul {
+    list-style: none;
+
+}
+/* styles for Li */
+li {
+    border-bottom: 1px solid lightgray;
+    text-align: left;
+    padding-left: 10px;
+}
+/* styles for card titles  */
+.card-title {
+    font-size: 20px;
+}
+
+.row {
+    margin-left: auto;
+    margin-right: auto;
+}
+/* styles for img size  */
+img {
+    width: 100px;
+    height: 100px;
+}
+/* styles for five day forecast colors */
+.fiveDayColor {
+    padding: 20px;
+    background-color: #1E90FF;
+    color: white;
+    float: left;
+    margin: 20px;
+    border: 1px solid lightgray;
+}
